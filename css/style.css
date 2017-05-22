@@ -1,0 +1,49 @@
+body{
+  background-color: black;
+  color: white;
+  font-family: futura;
+}
+
+h1{
+  font-family: impact;
+  text-align: center;
+}
+
+#logo{
+  width: 120px;
+  height: 120px;
+  align-items: center;
+}
+
+#about{
+  background-color: white;
+  width: 100%;
+  height: 500px;
+  color: black;
+}
+
+a{
+  font-family: impact;
+  font-size: 25px;
+  color: #e5ad29;
+}
+
+#resume{
+  background-color: white;
+  width: 100%;
+  height: 1700px;
+  color: black;
+}
+
+h2{
+  font-family: Bodoni;
+  text-align: left;
+  color: #bd1e25;
+}
+
+#footer{
+  background-color: #bd1e25;
+  width: 100%;
+  height: 200px;
+  color: black;
+}
