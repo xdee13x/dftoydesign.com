@@ -1,18 +1,30 @@
 body{
   background-color: black;
   color: white;
-  font-family: futura;
+  font-family: times;
 }
 
 h1{
-  font-family: impact;
+  font-family: futura;
   text-align: center;
+  margin-bottom: 100px;
+}
+
+#nav{
+
+}
+
+.links{
+  margin-top: 90px;
 }
 
 #logo{
   width: 120px;
   height: 120px;
-  align-items: center;
+}
+
+#bio{
+  padding-left: 30px;
 }
 
 #about{
@@ -20,12 +32,21 @@ h1{
   width: 100%;
   height: auto;
   color: black;
+  margin-top: 10px;
+  padding-top: 150px;
+  padding-bottom: 150px;
 }
 
 a{
-  font-family: impact;
+  font-family: futura;
   font-size: 25px;
   color: #e5ad29;
+}
+
+#projects{
+  margin-top: 50px;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 
 #resume{
@@ -33,12 +54,30 @@ a{
   width: 100%;
   height: auto;
   color: black;
+  margin-top: 50px;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 
 h2{
   font-family: Bodoni;
   text-align: left;
   color: #bd1e25;
+  margin-bottom: 20px;
+}
+
+#pr2{
+  margin-top: 30px;
+}
+
+#skills{
+  padding-left: 50px;
+}
+
+#contact{
+  margin-top: 50px;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 
 #footer{
@@ -46,4 +85,7 @@ h2{
   width: 100%;
   height: auto;
   color: black;
+  margin-top: 50px;
+  padding-top: 50px;
+  padding-bottom: 100px;
 }
